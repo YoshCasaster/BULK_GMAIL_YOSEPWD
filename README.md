@@ -29,9 +29,9 @@
    ![Input Data](https://telegra.ph/file/3277b645f36b7e5499229.png)
    ![Input Data 2](https://telegra.ph/file/3b4aa25123050b44ea79e.png)
 5. **Jika sudah klik button JAHAT / BAIK**
-6. **Masukan Text sesuai, lalu klik save**
+6. **Masukan Text sesuai, Jika Pesan inin munucl namanya ketik saja {name} , lalu klik save**
 7. **Jika sudah klik SIKATTTTTTTT**
 
 ## LINK DOWNLOAD
 
-[Download Here](https://drive.google.com/file/d/1pQ2Czqm1oM5BqTXpx7uxd3GaeMxf2KOf/view?usp=sharing)
+[Download Here](https://drive.google.com/file/d/15r6D6n-w622j3KEboJ24ySbrjMXRBf_n/view?usp=sharing)
