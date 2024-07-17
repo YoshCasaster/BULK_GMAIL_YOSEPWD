@@ -1,116 +1,37 @@
-![logo](yoshc.jpg)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+# BULK GMAIL By YoshCasaster | YosepWD
 
-<h1 align="center">Hi 👋, I'm YoshCassaster</h1>
-<h3 align="center">A passionate Programmer from INDONESIA</h3>
-<p align="center">Source Code Gabut | Niatnya saya buat untuk menganggu nasabah di pekerjaan saya saat itu🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
+## Tutorial: Mengambil Sandi Aplikasi Gmail
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-</div>
+1. **Login Gmail**
+2. **Click on your profile and click ’Manage your Google Account’**
+   ![Gmail Login](https://www.edbmails.com/screenshots/imap/gmail-login.png)
+3. **Pilih menu di samping Security / Keamanan, Cari 2-Step Verification**
+   ![2-Step Verification](https://www.edbmails.com/screenshots/imap/click-2-step-verification-gmail.png)
+4. **Lalu aktifkan 2-Step Verification biasanya menggunakan no yang dapat menerima sms**
+   ![OTP Text Msg](https://www.edbmails.com/screenshots/imap/otp-text-msg.png)
+5. **Masukan code yang diterima di sms lalu aktifkan**
+6. **Setelah itu kembali**
+   ![2-Step Verification Enabled](https://www.edbmails.com/screenshots/imap/2-step-verification-enabled.png)
+7. **Cari app password / sandi aplikasi atau klik link berikut [App Passwords](https://myaccount.google.com/apppasswords)**
+   ![App Password](https://www.edbmails.com/screenshots/imap/security-app-password.png)
+8. **Buat namanya lalu klik buat**
+   ![App Password Name](https://www.edbmails.com/screenshots/imap/app-password-name.png)
+9. **Jika sudah muncul kode gunakan dan masukan kedalam aplikasi input app password**
+   ![Copy App Password](https://www.edbmails.com/screenshots/imap/copy-app-password.png)
 
-<br>
+## Tutorial Aplikasi
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+1. **Buka Aplikasi**
+   ![Open App](https://telegra.ph/file/647b43bf619419163414f.png)
+2. **Masukan Gmail anda + Password code tadi**
+3. **Masukan Judul Gmail**
+4. **Masukan data anda**
+   ![Input Data](https://telegra.ph/file/3277b645f36b7e5499229.png)
+   ![Input Data 2](https://telegra.ph/file/3b4aa25123050b44ea79e.png)
+5. **Jika sudah klik button JAHAT / BAIK**
+6. **Masukan Text sesuai, lalu klik save**
+7. **Jika sudah klik SIKATTTTTTTT**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+## LINK DOWNLOAD
 
-- ✅ WINDOWS
-
-- 🔐SC INI DILINDUNGI OLEH CREATOR🔒
-
-- 👨‍💻 BOOM GMAIL MESSAGE
-
-- ⚡ Fun fact **I think I'm funny**
-
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yosepwahyudanuarto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/yosepwahyudanuarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://instagram.com/yosepwdd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-</p>
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">INTERFACE</h3>
-
-- LOGIN (PASSWORD? FOLLOW DULU DONG , LALU MINTA KE INSTAGRAM : @yosepwdd (FREE))
-<p align="left">
-  <a href="https://google.com">
-    <img src="./menu.jpg" />
-  </a>
-</p>
-
-- MENU UTAMA
-<p align="left">
-  <a href="https://google.com">
-    <img src="./bukti.jpg" />
-  </a>
-</p>
-
-
-</p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Trophy:</h3>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![YoshCasaster GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshCasaster\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Activity:</h3>
-
-![YoshCasaster Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoshCasastercustom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-<p align="right" > Created with 🧡 by <a href="#"></>TeamCassaster</></a></p>
+[Download Here](https://drive.google.com/file/d/1pQ2Czqm1oM5BqTXpx7uxd3GaeMxf2KOf/view?usp=sharing)
