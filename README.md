@@ -29,7 +29,7 @@
    ![Input Data](https://telegra.ph/file/3277b645f36b7e5499229.png)
    ![Input Data 2](https://telegra.ph/file/3b4aa25123050b44ea79e.png)
 5. **Jika sudah klik button JAHAT / BAIK**
-6. **Masukan Text sesuai, Jika Pesan inin munucl namanya ketik saja {name} , lalu klik save**
+6. **Masukan Text sesuai, Jika Pesan ingin muncul namanya ketik saja {name} , lalu klik save**
 7. **Jika sudah klik SIKATTTTTTTT**
 
 ## LINK DOWNLOAD
